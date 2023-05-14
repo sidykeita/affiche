@@ -1,0 +1,132 @@
+
+#header
+{
+    background-color: #e3b04b;
+    color: white;
+    height: 200px;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 15px;
+    display: flex;
+}
+
+#nav
+{
+
+    color: white;
+    width: 100%;
+
+}
+
+.Keita_li-nav
+{
+    padding: 4px;
+    margin: 5px;
+    border: 1px dashed white;
+    list-style: none;
+    width: 95%;
+}
+
+.Keita_li-nav:hover
+{
+    background-color: white;
+   
+}
+
+.Keita_li-nav a
+{
+    text-decoration: none;
+    color: white;
+
+}
+
+.Keita_li-nav a:hover
+{
+    color: gray;
+}
+
+#section
+{
+    height: 100%;
+    width: 97%;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+.Keita_container-section
+{
+    border: 1px solid black;
+    width: inherit;
+    margin-bottom: 15px;
+    padding: 20px; 
+}
+
+.Keita_image
+{
+    width:300px;
+  
+}
+
+#section-2
+{
+    height: 100%;
+    width: 97%;
+    flex-direction: column;
+    display: flex;
+    border: 1px solid black;
+    margin-bottom: 15px;
+
+}
+
+.keita_h2
+{
+    background-color: black;
+    font-size:x-large;
+    color: white;
+    padding: 3px;
+    width: 95%;
+    padding: 10px;
+    margin: 20px;
+}
+
+.Keita_container-section-2
+{
+    background-color: #adadad;
+    border: 1px solid black;
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 20px; 
+    margin: 20px;
+}
+
+.Keita_image2
+{
+    width:inherit;
+}
+
+.Keita_link
+{
+    width: 100px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    background-color: green;
+    display: flex;
+}
+
+.Keita_link a 
+{
+    color: white;
+}
+
+#footer
+{
+    border: 1px solid black;
+    height: 200px;
+    flex-direction: column;
+    display: flex;
+}
+
+
+
